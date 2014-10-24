@@ -1,0 +1,12 @@
+You can compare the code between versions that helps to narrow down files.
+easy to identfy bugs by looking at history of file changes.
+if you autoversion like google docs, there is no way to find what changes related to what fix.
+
+git log
+  is used to see commit history
+
+git diff
+
+  is used to compare one commit with another.
+  We can always go back to old code that is working and fix bugs introduced in new code.
+  
